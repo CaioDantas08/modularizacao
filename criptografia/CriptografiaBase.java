@@ -1,3 +1,4 @@
+package criptografia;
 public abstract class CriptografiaBase {
 
     protected String chave;

@@ -1,3 +1,4 @@
+package capturas;
 import java.io.*;
 public class RunningOptions {
 
